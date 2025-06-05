@@ -20,4 +20,5 @@ console.log(typeof "manpreet");
 console.log(typeof null);     // object
 console.log(typeof undefined);   // undefined
 
+// Null is an object where as undefined is defined as undefined 
 
